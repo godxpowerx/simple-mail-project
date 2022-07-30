@@ -1,0 +1,8 @@
+textarea {
+    min-height: 400px;
+}
+
+button.button-link{
+        background: none;
+        border: none;
+    }
