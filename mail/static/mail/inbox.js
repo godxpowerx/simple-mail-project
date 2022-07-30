@@ -184,7 +184,7 @@ function check_mail() {
           `
        <hr/>
       <div class='border col-12 col-md-6'>
-      <textarea disabled class="form-control" id="compose-body" placeholder="Body">
+      <textarea disabled class="form-control" id="comp" placeholder="Body">
       ${email.body}
       </textarea>
       </div>
